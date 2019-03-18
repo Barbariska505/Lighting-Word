@@ -9,3 +9,4 @@ Files phonegap project in zip.
 
 # UPDATE LOGS
 19:04/18.03.2019 0.0.2 index.html update // buttons update 
+19:17/18.03.2019 0.0.2 zip update // buttons update
