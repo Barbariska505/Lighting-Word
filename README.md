@@ -8,7 +8,7 @@ App for re-learning English on cordova (phonegap) html/css/js
 Files phonegap project in zip.
 
 # UPDATE LOGS
-* 17:35/18.03.2019 0.0.3 zip update // background fix (reupload)
+* 17:44/18.03.2019 0.0.3 zip deleted
 * 17:07/19.03.2019 add MIT Licence
 * 20:51/18.03.2019 0.0.3 index.html update // background fix (reupload)
 * 20:20/18.03.2019 0.0.3 index.html update // background fix
