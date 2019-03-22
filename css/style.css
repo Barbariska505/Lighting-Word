@@ -1,1 +1,93 @@
 
+			.bg{
+				background: linear-gradient(#ff4081 0%, #3f51b5 100%);
+				width: 100%;
+				height: 100%;
+				background-size: cover;
+				background-attachment:fixed;
+			}
+			.appbar{
+				width: 100%;
+				height: 66px;
+				background: rgba(255, 64, 129, 0.5);
+				position: fixed;
+				top:0;
+				left: 0;
+			}
+			.appbar p{
+				font-family: Roboto;
+				font-weight: 500;
+				font-size: 20px;
+				text-align: left;
+				color: #fff;
+				float: left;
+				margin-left: 50px;
+			}
+			.appbar svg{
+				margin-left: 20px;
+				float: left;
+				margin-top: 22px;
+				height: 24px;
+				weight: 24px;
+			}
+			.appbar svg:hover{
+				background: rgb(255, 255, 255, 0.1);
+				border-radius: 10px;
+			}
+			.cardbar{
+				margin-top: 77px;
+			}
+			.card{
+				width: 100%;
+				height: auto;
+				border-radius: 2px;
+				background: transparent;
+				box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.4);
+				background-color: rgba(255, 255, 255, 0.1);
+				padding-bottom: 10px;
+				margin-bottom: 11px;
+			}
+			.card a{
+				width: 86px;
+				height: 36px;
+				background: transparent;
+				font-family: Roboto;
+				font-weight: 500;
+				font-size: 14px;
+				text-align: left;
+				color: #fff;
+				text-decoration: none;
+				margin-left: 15px;
+				padding: 2px 5px;
+			}
+			.card a:hover{
+				background: rgb(255, 255, 255, 0.1);
+				border-radius: 10px;
+			}
+			.card h6{
+				font-family: Roboto;
+				font-weight: normal;
+				font-size: 24px;
+				text-align: left;
+				color: #fff;
+				padding-top: 19px;
+				margin-left: 15px;
+				margin-bottom: 0px;
+			}
+			.card p{
+				font-family: Roboto;
+				font-weight: normal;
+				font-size: 14px;
+				line-height: 20px;
+				text-align: left;
+				color: #fff;
+				margin-left: 15px;
+				margin-bottom: 105px;
+			}
+			.card img{
+				width: 160px;
+				height: 160px;
+				border-radius: 10px;
+				margin-right: 16px;
+				margin-top: 19px;
+			}
