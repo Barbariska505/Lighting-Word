@@ -5,13 +5,4 @@ App for re-learning English on cordova html/css/js
 <https://crylaps.github.io/Lighting-Word/>
 
 # FILES
-Files phonegap project in zip.
-
-# UPDATE LOGS
-* 17:44/18.03.2019 0.0.3 zip deleted
-* 17:07/19.03.2019 add MIT Licence
-* 20:51/18.03.2019 0.0.3 index.html update // background fix (reupload)
-* 20:20/18.03.2019 0.0.3 index.html update // background fix
-* 20:17/18.03.2019 0.0.3 zip update // background fix
-* 19:17/18.03.2019 0.0.2 zip update // buttons update
-* 19:04/18.03.2019 0.0.2 index.html update // buttons update 
+Files in zip.
